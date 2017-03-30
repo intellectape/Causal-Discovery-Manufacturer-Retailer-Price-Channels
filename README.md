@@ -18,6 +18,7 @@ The goal of this project is to observe whether the system comprising of the manu
 
 You will be given a time series data set containing three variables namely QTY, RPRICE, and MPRICE. The data was collected on a weekly basis at the Dominick’s Finer Foods supermarket in the Chicago area and made available by the University of Chicago’s Kilts Center.
 
-| QTY | Number of packs sold|
-| RPRICE | Retailer’s selling price of a product |
-| MPRICE | Selling price of a product decided by the manufacturer |
+| **QTY** | **Number of packs sold** |
+| :---: | :---: |
+| **RPRICE** | **Retailer’s selling price of a product** |
+| **MPRICE** | **Selling price of a product decided by the manufacturer** |
